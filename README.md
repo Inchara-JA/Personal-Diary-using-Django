@@ -1,7 +1,9 @@
 # Personal Diary application using Django
-This is a personal diary web application created using django framework for backend.
+This is a personal diary web application created using django.
 
-Frontend : html, css AND javascript.
+Frontend : html, css and javascript.
+
+Backend : django framework.
 
 Database : sqlite.
 
