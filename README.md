@@ -1,7 +1,10 @@
 # Personal Diary application using Django
 This is a personal diary web application created using django framework for backend.
+
 Frontend : html, css AND javascript.
+
 Database : sqlite.
+
 # Get the source code and the install the required modules
 git@github.com:Inchara-JA/Personal-Diary-using-Django.git
 
