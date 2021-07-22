@@ -14,6 +14,10 @@ git clone https://github.com/Inchara-JA/Personal-Diary-using-Django
 cd diary
 
 pip install -r requirements.txt
+
+python mamage.py makemigrations
+
+python manage.py migrate
 ```
 # To run server
 ```
